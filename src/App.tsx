@@ -32,7 +32,7 @@ export default function App() {
               >
                 <Menu className="h-6 w-6" />
               </button>
-              <span className="text-xl font-bold ml-2">SIGO</span>
+              <span className="text-xl font-bold ml-2">M.A.R.I. - Monitoramento e Análise de Resultados Integrados</span>
             </div>
             
             <div className="flex items-center gap-4">
